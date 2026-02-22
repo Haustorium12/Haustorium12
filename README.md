@@ -18,6 +18,10 @@ I think in systems. I design with metaphors that map to real engineering. If the
 
 `Python` · `Claude API` · `Systems Architecture` · `MCP`
 
+### Built with
+
+`Claude` · `Cursor` · `Copilot` · `Gemini`
+
 ---
 
 *A haustorium taps into a host and extracts exactly what it needs. Nothing wasted.*
