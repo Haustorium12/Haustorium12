@@ -1,10 +1,23 @@
-- 👋 Hi, I’m @Haustorium12
-- 👀 I’m interested in using Obsidian to organize my notes and learn to code as well, now that i can use code in Obsidian. 
-- 🌱 I’m currently learning how to use code in obsidain 
-- 💞️ I’m looking to collaborate on nothing at the moment, but if you would like to ask i wouldn't mind.
-- 📫 How to reach me, Please leave a message after the beep.............................beep!
+# Haustorium12
 
-<!---
-Haustorium12/Haustorium12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**I build systems that think.**
+
+Not chatbots. Not wrappers. Architectures with engines, feedback loops, and the discipline to know when to stop.
+
+---
+
+### What I'm building
+
+An autonomous AI intelligence — designed from scratch. No frameworks. No shortcuts. Python, a clear vision, and a compression-ignition engine that knows the difference between a spark and a real fire.
+
+### How I work
+
+I think in systems. I design with metaphors that map to real engineering. If the metaphor breaks under pressure, the architecture was wrong. If it holds, you build it.
+
+### Stack
+
+`Python` · `Claude API` · `Systems Architecture` · `MCP`
+
+---
+
+*A haustorium taps into a host and extracts exactly what it needs. Nothing wasted.*
