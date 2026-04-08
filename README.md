@@ -11,7 +11,7 @@ Not chatbots. Not wrappers. Architectures with engines, feedback loops, and the 
 | Repo | What | Status |
 |------|------|--------|
 | **[memory-v2](https://github.com/Haustorium12/memory-v2)** | Brain-inspired persistent memory for AI coding assistants. Hybrid BM25+vector search, ACT-R activation scoring, FadeMem decay, knowledge graphs. MCP server. | Production |
-| **[awesome-x402](https://github.com/Haustorium12/awesome-x402)** | Curated list of 300+ x402 protocol resources — SDKs, tools, services, facilitators, and ecosystem projects. | Maintained |
+| **[gold-402](https://github.com/Haustorium12/gold-402)** | The gold standard for x402 resources — 300+ projects, SDKs, tools, and ecosystem data — SDKs, tools, services, facilitators, and ecosystem projects. | Maintained |
 | **[memory-v3](https://github.com/Haustorium12/memory-v3)** | Next-generation memory system. Multi-graph architecture, surprise scoring, constitutional governance. 12 upgrades over v2. | In development |
 
 ### What I'm building
